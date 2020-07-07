@@ -39,3 +39,13 @@ x
 Happ/src/main/java/com/ivan/runningapp/ui/fragments/StatisticsFragment.kt,6\c\6c3ff9881dfec22b3897432b9faa54c098566bbb
 R
 "app/src/main/res/values/styles.xml,f\7\f79cc2688e29fcbc286fda14ae07b27c9e83690f
+o
+?app/src/main/java/com/ivan/runningapp/others/TrackingUtility.kt,5\3\535735aaf4617eae4038df6e949c5c35054945cc
+Y
+)app/src/main/res/layout/activity_main.xml,7\6\76b07e40f24cce093536731477540f12e7da3cb6
+Z
+*app/src/main/res/layout/fragment_setup.xml,f\4\f45d9b143ddf6c0145e78d54679b397502ba5c0b
+q
+Aapp/src/main/java/com/ivan/runningapp/services/TrackingService.kt,1\b\1bb135fff15b12d517e00491f71aa7cb8ec8f7c6
+]
+-app/src/main/res/layout/fragment_tracking.xml,1\4\141c3978f0ff6dacd2f91a6a1445f6dbd91a956a
