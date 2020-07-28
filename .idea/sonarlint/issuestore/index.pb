@@ -49,3 +49,11 @@ q
 Aapp/src/main/java/com/ivan/runningapp/services/TrackingService.kt,1\b\1bb135fff15b12d517e00491f71aa7cb8ec8f7c6
 ]
 -app/src/main/res/layout/fragment_tracking.xml,1\4\141c3978f0ff6dacd2f91a6a1445f6dbd91a956a
+]
+-app/src/main/res/layout/fragment_settings.xml,4\f\4fc5b33bc32b9fda83e2938a513ac8733024f0ff
+X
+(app/src/main/res/layout/fragment_run.xml,d\e\def8bc5738b698e2297e72fc2190401d7175c195
+Y
+)app/src/main/res/navigation/nav_graph.xml,b\a\baffce053da291d96fb575a09f2bbe9aaa9c4be9
+i
+9app/src/main/java/com/ivan/runningapp/di/ServiceModule.kt,4\2\42357c7939e69295c65b2668911dec68e5449b2c
