@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">CorreCorre</string>
+    <string name="app_name">AppCorrer</string>
     <string name="google_maps_key">AIzaSyCN-Q1Ipfsbv0YngYF2ed17B765XklJdxA</string>
     <string-array name="filter_options">
         <item>Date</item>
